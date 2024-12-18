@@ -26,3 +26,5 @@ databricks is available on all 3 major cloud platforms. But Azure's integration 
 On Azure you will be buying databricks directly from Microsoft and all support requests are handled by Microsoft. As a result, it provides a unified Azure Portal for databricks and a single unified bill for all your Azure services, including databricks. 
 
 Azure databricks provides seamless integration between various Azure data services, such as Azure Data Lake, Blob Storage, Cosmos DB, SQL DB and Synapse, Messaging services such as Event Hub and IoT Hub, Power BI and Azure ML. You can seamlessly run databricks notebooks from Azure Data Factory, and integrate with the rest of the data workflow in your data project. It also connects with Azure DevOps. 
+
+The unity catalog that supports cross-workspace data governance, is only available in azure databricks premium tier. 
